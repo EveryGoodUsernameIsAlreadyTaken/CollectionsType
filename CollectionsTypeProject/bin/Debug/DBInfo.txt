@@ -1,0 +1,1 @@
+ConString:Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\hyunuk\Documents\CustManagementCollections.mdf;Integrated Security=True;Connect Timeout=30

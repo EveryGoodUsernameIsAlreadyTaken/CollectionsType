@@ -1,0 +1,11 @@
+C:\Users\hyunuk\source\repos\CollectionsTypeProject\CollectionsTypeProject\bin\Debug\CollectionsTypeProject.exe.config
+C:\Users\hyunuk\source\repos\CollectionsTypeProject\CollectionsTypeProject\bin\Debug\CollectionsTypeProject.exe
+C:\Users\hyunuk\source\repos\CollectionsTypeProject\CollectionsTypeProject\bin\Debug\CollectionsTypeProject.pdb
+C:\Users\hyunuk\source\repos\CollectionsTypeProject\CollectionsTypeProject\obj\Debug\CollectionsTypeProject.csprojResolveAssemblyReference.cache
+C:\Users\hyunuk\source\repos\CollectionsTypeProject\CollectionsTypeProject\obj\Debug\CollectionsTypeProject.Form1.resources
+C:\Users\hyunuk\source\repos\CollectionsTypeProject\CollectionsTypeProject\obj\Debug\CollectionsTypeProject.Form2.resources
+C:\Users\hyunuk\source\repos\CollectionsTypeProject\CollectionsTypeProject\obj\Debug\CollectionsTypeProject.Properties.Resources.resources
+C:\Users\hyunuk\source\repos\CollectionsTypeProject\CollectionsTypeProject\obj\Debug\CollectionsTypeProject.csproj.GenerateResource.Cache
+C:\Users\hyunuk\source\repos\CollectionsTypeProject\CollectionsTypeProject\obj\Debug\CollectionsTypeProject.csproj.CoreCompileInputs.cache
+C:\Users\hyunuk\source\repos\CollectionsTypeProject\CollectionsTypeProject\obj\Debug\CollectionsTypeProject.exe
+C:\Users\hyunuk\source\repos\CollectionsTypeProject\CollectionsTypeProject\obj\Debug\CollectionsTypeProject.pdb
